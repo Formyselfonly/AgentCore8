@@ -4,6 +4,8 @@ This guide introduces 8 widely used **AI Agent Design Types**, complete with pro
 
 ------
 
+![](MultiAgent.jpg)
+
 ## 📦 Agent Types Covered
 
 1. [Thinking → Acting → Observing (TAO)](#1-thinking--acting--observing-tao-loop)
